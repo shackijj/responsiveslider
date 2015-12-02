@@ -2,7 +2,7 @@
 $this->setFrameMode(true);
 ?>
 <div class="pl_rs_container" style="visibility: hidden; display: block; overflow: hidden; margin: 0px auto 0px auto; padding: 10px 0px 5px 0px; width: <?=$arParams['CONTAINER_WIDTH']?>%;">
-<!-- Jssor FUCK Slider Begin -->
+<!-- Jssor Slider Begin -->
 <!-- You can move inline styles to css file or css block. -->
 	<div id="slider2_container" style="position: relative; margin: 0; float: left; top: 0px; left: 0px; width: <?=$arParams['SLIDE_WIDTH']?>px;
 		height: <?=$arParams['SLIDE_HEIGHT']?>px; overflow: hidden;">
