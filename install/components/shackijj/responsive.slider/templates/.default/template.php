@@ -17,7 +17,7 @@ $this->setFrameMode(true);
 				<?else:?>
 					<img id="pl_rs_image<?=$key?>" data-u="image" data-src2="<?=$item['PATH']?>" alt="<?=$item['DESCRIPTION']?>">
 				<?endif;?>
-				<div class="slide_content" id="pl_slide<?=key?>_content">
+				<div class="slide_content" id="pl_slide<?=$key?>_content">
 				</div>
 			</div>
 		<? endforeach; ?>
